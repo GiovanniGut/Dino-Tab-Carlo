@@ -1,25 +1,18 @@
 {
-“name”: “Avventura Preistorica di Carlo”,
-“short_name”: “DinoMath Carlo”,
-“description”: “Gioco di matematica con dinosauri personalizzato per Carlo”,
-“start_url”: “./index.html”,
-“display”: “standalone”,
-“orientation”: “portrait”,
-“background_color”: “#ffffff”,
-“theme_color”: “#4ade80”,
-“icons”: [
-{
-“src”: “data:image/svg+xml,%3Csvg xmlns=‘http://www.w3.org/2000/svg’ viewBox=‘0 0 100 100’%3E%3Ctext y=‘0.9em’ font-size=‘90’%3E🦖%3C/text%3E%3C/svg%3E”,
-“sizes”: “192x192”,
-“type”: “image/svg+xml”,
-“purpose”: “any maskable”
-},
-{
-“src”: “data:image/svg+xml,%3Csvg xmlns=‘http://www.w3.org/2000/svg’ viewBox=‘0 0 100 100’%3E%3Ctext y=‘0.9em’ font-size=‘90’%3E🦖%3C/text%3E%3C/svg%3E”,
-“sizes”: “512x512”,
-“type”: “image/svg+xml”,
-“purpose”: “any maskable”
+  "name": "Avventura Preistorica di Carlo",
+  "short_name": "DinoMath Carlo",
+  "description": "Gioco di matematica con dinosauri personalizzato per Carlo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#4ade80",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E🦖%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
-]
-}
-Aggiunto manifest
